@@ -17,3 +17,4 @@ Pod::Spec.new do |s|
   s.frameworks = 'UIKit', 'QuartzCore', 'Foundation'
 
   s.dependency 'React'
+end
