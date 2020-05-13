@@ -31,6 +31,7 @@
 
 //we don'e need this one since it has been defined in RCTWebView.m
 //NSString *const RCTJSNavigationScheme = @"react-js-navigation";
+NSString *const RCTJSNavigationScheme = @"react-js-navigation";
 NSString *const RCTWebViewBridgeSchema = @"wvb";
 
 // runtime trick to remove UIWebview keyboard default toolbar
